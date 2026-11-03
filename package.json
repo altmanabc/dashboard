@@ -1,0 +1,9 @@
+{
+  "name": "abc-election-center",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 4173 --directory dist --bind 0.0.0.0",
+    "test": "node tests/feed.test.mjs"
+  }
+}

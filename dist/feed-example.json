@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "electionDate": "2026-11-03",
+  "source": {
+    "name": "Example only — replace all values",
+    "url": "https://example.com"
+  },
+  "updatedAt": "2026-11-03T18:00:00Z",
+  "chambers": {
+    "senate": {
+      "dem": 0,
+      "rep": 0,
+      "other": 0,
+      "uncalled": 100,
+      "control": null
+    },
+    "house": {
+      "dem": 0,
+      "rep": 0,
+      "other": 0,
+      "uncalled": 435,
+      "control": null
+    }
+  },
+  "races": [
+    {
+      "id": "AK-sen",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "IA-sen",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "KS-sen",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "ME-sen",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "OH-sen",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "TX-sen",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "GA-sen",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "NC-sen",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "MI-sen",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "MN-sen",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "MS-sen",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "NH-sen",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "SC-sen",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "PA-07",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "PA-01",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "NC-01",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "OH-07",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "AZ-06",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "MI-07",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "NY-17",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    },
+    {
+      "id": "TX-15",
+      "updatedAt": "2026-11-03T18:00:00Z",
+      "estimatedVoteIn": null,
+      "status": "uncalled",
+      "candidates": [],
+      "calledWinnerId": null,
+      "calledAt": null
+    }
+  ]
+}
