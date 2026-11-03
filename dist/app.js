@@ -132,3 +132,11 @@ function startTimer(){clearInterval(timer);timer=setInterval(()=>{if(!document.h
 window.addEventListener('pageshow',e=>{if(e.persisted){startTimer();refresh();}});
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)refresh();});
 window.addEventListener('pagehide',()=>{clearInterval(timer);cancelRequest();});
+
+// Keep the association name visible if the remote official artwork cannot load.
+document.querySelectorAll('.abc-brand-logo').forEach(img=>{
+ const showLogo=()=>{if(img.naturalWidth>0)img.closest('.brand-logo-wrap').classList.add('logo-ready');};
+ img.addEventListener('load',showLogo);
+ img.addEventListener('error',()=>img.closest('.brand-logo-wrap').classList.remove('logo-ready'));
+ if(img.complete)showLogo();
+});
